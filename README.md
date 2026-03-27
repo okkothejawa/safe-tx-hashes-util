@@ -59,6 +59,7 @@ This Bash [script](./safe_hashes.sh) calculates the Safe transaction hashes by r
 - Botanix (identifier: `botanix`, chain ID: `3637`)
 - BSC (BNB Smart Chain) (identifier: `bsc`, chain ID: `56`)
 - Celo (identifier: `celo`, chain ID: `42220`)
+- Citrea (identifier: `citrea`, chain ID: `4114`)
 - Codex (identifier: `codex`, chain ID: `81224`)
 - Creditcoin (identifier: `creditcoin`, chain ID: `102030`)
 - Ethereum (identifier: `ethereum`, chain ID: `1`)
